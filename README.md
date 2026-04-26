@@ -9,6 +9,6 @@ Python based number guessing game with limited attempts and hints
 ## Tech used
 - Python
 
-## Run
+## How to run
 Run the file using:
 python guess_game.py
